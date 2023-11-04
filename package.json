@@ -1,0 +1,12 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "midu november code challenges",
+  "main": "index.js",
+  "scripts": {
+    "c1": "node ./Challenge1/Challenge1.js"
+  },
+  "keywords": [],
+  "author": "Geffrys",
+  "license": "ISC"
+}
