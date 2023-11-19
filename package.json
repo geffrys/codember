@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "midu november code challenges",
   "main": "index.js",
+  "type":"module",
   "scripts": {
-    "c1": "node ./Challenge1/Challenge1.js"
+    "c1": "node ./Challenge1/Challenge1.js",
+    "c2": "node ./Challenge2/Challenge2.js"
   },
   "keywords": [],
   "author": "Geffrys",
