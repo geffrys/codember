@@ -3,7 +3,7 @@ let chain = "&###@&*&###@@##@##&######@@#####@#@#@#@##@@@@@@@@@@@@@@@*&&@@@@@@@@
 let counter = 0;
 let result = "";
 
-chain.split("").forEach((char, index) => {
+chain.split("").forEach((char) => {
     switch (char) {
         case "&":
             result += counter
