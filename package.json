@@ -6,7 +6,8 @@
   "type":"module",
   "scripts": {
     "c1": "node ./Challenge1/Challenge1.js",
-    "c2": "node ./Challenge2/Challenge2.js"
+    "c2": "node ./Challenge2/Challenge2.js",
+    "c3": "node ./Challenge3/Challenge3.js"
   },
   "keywords": [],
   "author": "Geffrys",
